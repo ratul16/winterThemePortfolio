@@ -1,9 +1,10 @@
-# Gitport
+# Gitport [![Netlify Status](https://api.netlify.com/api/v1/badges/7e83e6cd-d82a-406a-a0ca-5a9105d5abf5/deploy-status)](https://app.netlify.com/sites/winterthemed/deploys)
 
 A simple porfolio site designed using Bootstrap,typed.js and animate.css 
 packages.
 
 If you want to learn more about CDN and how to use it visit : https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+
 
 ## Requirements :
 1. Bootstrap
