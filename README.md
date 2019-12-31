@@ -38,5 +38,5 @@ You can download the files from github or you can install them directly using **
 
 ### SnowFlakes : http://pajasevi.github.io/CSSnowflakes/
 
-### Feel free to use and customize this templete if you want. Use your ideas and most importantly have fun doing it. 😁✌
+### Feel free to use and customize this templete if you want ,just fork the repo. Use your ideas and most importantly have fun doing it. 😁✌
 
