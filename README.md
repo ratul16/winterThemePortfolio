@@ -1,10 +1,9 @@
-# Gitport [![Netlify Status](https://api.netlify.com/api/v1/badges/7e83e6cd-d82a-406a-a0ca-5a9105d5abf5/deploy-status)](https://app.netlify.com/sites/winterthemed/deploys)
+# Welcome to winterThemePortfolio 👋
+![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
-A simple porfolio site designed using Bootstrap,typed.js and animate.css 
-packages.
-
-If you want to learn more about CDN and how to use it visit : https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
-
+> A simple porfolio site designed using Bootstrap,typed.js and animate.css 
+packages.If you want to learn more about CDN and how to use it visit : https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
 
 ## Requirements :
 1. Bootstrap
@@ -38,5 +37,17 @@ You can download the files from github or you can install them directly using **
 
 ### SnowFlakes : http://pajasevi.github.io/CSSnowflakes/
 
-### Feel free to use and customize this templete if you want. Use your ideas and most importantly have fun doing it. 😁✌
+ Feel free to use and customize this templete if you want. Use your ideas and most importantly have fun doing it. 😁✌ 
 
+## Author
+
+* Github: [@ratul16](https://github.com/ratul16)
+* LinkedIn: [@ratul16](https://linkedin.com/in/ratul16)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
